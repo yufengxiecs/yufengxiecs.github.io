@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yufeng XIE"
 title_separator          : "-"
 name                     : &name "Yufeng Xie"
-description              : &description "Master student in Xidian"
+description              : &description "Master student @ XDU"
 url                      : https://withyufeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WithYufeng/WithYufeng.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : “yufengxie.cs@gmail.com”
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yufeng-Xie-8"
   uri              :
   bitbucket        :
   codepen          :
