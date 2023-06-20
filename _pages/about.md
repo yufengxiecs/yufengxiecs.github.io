@@ -18,6 +18,8 @@ Research Interest
 
 News
 ======
++ **[04/2023]**  Applied for an invention patent "*A Spacecraft Control Software Adaptation Method for Runtime Uncertainty*".
++ **[04/2023]**  Applied for an invention patent "*A Method for Autonomous Planning of Spaceborne Software Instructions Based on Disjunctive Graph*".
 + **[11/2022]**  Received the Hard Technology Scholarship, awarded by XDU, Xi’an, China.
 + **[11/2022]**  Received the New Student Special Scholarship, awarded by XDU, Xi’an, China.
 + **[06/2022]**  Won the Honor of Outstanding Graduates, awarded by XSYU, Xi’an, China.
@@ -31,9 +33,9 @@ News
 
 Education
 ======
-+ <img align="left" decoding="async" src="/images/logo_xdu.png" width="6%"> &nbsp;M.Sc., Computer Science and Technology, Xidian University, 2022.08 - Now, <br>&nbsp;Supervisor: [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://www.lamda.nju.edu.cn/wanghan/)
++ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Sc., Computer Science and Technology, Xidian University, 2022.08 - Now, <br>&nbsp;Supervisor: [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://www.lamda.nju.edu.cn/wanghan/)
 
-+ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="6%"> &nbsp;B.Sc., Computer Science and Technology, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;Supervisor: Prof. Guojian Cheng
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Sc., Computer Science and Technology, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;Supervisor: Prof. Guojian Cheng
 
 Contact with me
 ======
