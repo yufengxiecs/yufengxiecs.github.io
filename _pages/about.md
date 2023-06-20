@@ -42,4 +42,4 @@ Contact with me
 Welcome to contact with me via email [yufengxie.cs@gmail.com](mailto:yufengxie.cs@gmail.com), [yufeng.xie@stu.xidian.edu.cn](mailto:yufeng.xie@stu.xidian.edu.cn).
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=lflx9znrAmJSi7FcOE6DymmIITizKuBntMS5ECUOghs"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=265&t=n&d=lflx9znrAmJSi7FcOE6DymmIITizKuBntMS5ECUOghs&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
