@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
 I am currently a master student of the [School of Computer Science and Technology](https://cs.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) (XDU), under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/). Before joining the XDU, I received my bachelor degree of Computer Science and Technology from Xi’an Shiyou University. In 2021, I was successfully recommended to Xidian University in advance. I am a self-motivated person and have strong passion for scientific research. Currently, my research interest lies in Reinforcement Learning, Adaptive System, and Intelligent Software Engineering. I am always welcoming collaborating from solid partners.
 
 Research Interest
