@@ -18,7 +18,8 @@ Research Interest
 
 News
 ======
-+ **[04/2023]**  Applied for an invention patent "*A Spacecraft Control Software Adaptation Method for Runtime Uncertainty*".
++ **[12/2023]**  "Self-supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward" Accepted by ICASSP'24
+<!-- + **[04/2023]**  Applied for an invention patent "*A Spacecraft Control Software Adaptation Method for Runtime Uncertainty*".
 + **[04/2023]**  Applied for an invention patent "*A Method for Autonomous Planning of Spaceborne Software Instructions Based on Disjunctive Graph*".
 + **[11/2022]**  Received the Hard Technology Scholarship, awarded by XDU, Xi’an, China.
 + **[11/2022]**  Received the New Student Special Scholarship, awarded by XDU, Xi’an, China.
@@ -29,7 +30,7 @@ News
 + **[12/2020]**  Won the First Prize of China Robotics and Artificial Intelligence Competition.
 + **[12/2020]**  Won the Second prize of China Undergraduate Mathematical Contest in Modeling.
 + **[11/2020]**  Received the National Endeavor Scholarship, awarded by Ministry of Education, China.
-+ **[10/2020]**  Won the Second Prize of Blue Bridge Cup Programming Contest.
++ **[10/2020]**  Won the Second Prize of Blue Bridge Cup Programming Contest. -->
 
 Education
 ======
