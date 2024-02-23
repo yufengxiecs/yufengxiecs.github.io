@@ -16,6 +16,5 @@ redirect_from:
 + National Encouragement Scholarship, Ministry of Education, China, 2020 & 2021
 + Outstanding Graduates, XSYU, Xi’an, China, 2022.06
 + First Class Student Scholarship, XSYU, Xi’an, China, 2021
-+ Second Class Student Scholarship, XSYU, Xi’an, China, 2020
 
 
