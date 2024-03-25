@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yufeng XIE"
 title_separator          : "-"
-name                     : &name "Yufeng XIE"
+name                     : &name "Yufeng Xie"
 description              : &description "Master student @ XDU"
 url                      : https://yufengxiecs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
