@@ -19,7 +19,7 @@ Research Interest
 
 News
 ======
-+ **[12/2023]**  "Self-supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward" Accepted by ICASSP'24
++ **[12/2023]**  "Self-Supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward" Accepted by ICASSP'24
 
 Education
 ======
