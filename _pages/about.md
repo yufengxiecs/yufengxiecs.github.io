@@ -10,16 +10,21 @@ redirect_from:
 
 About me
 ======
-I am currently a master student of the [School of Computer Science and Technology](https://cs.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) (XDU), under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/). Before joining the XDU, I received my bachelor degree of Computer Science and Technology from Xi’an Shiyou University. In 2021, I was successfully recommended to Xidian University in advance. I am a self-motivated person and have strong passion for scientific research. Currently, my research interest lies in Reinforcement Learning, Adaptive System, and Intelligent Software Engineering. I am always welcoming collaborating from solid partners.
+I am currently a master student of the [School of Computer Science and Technology](https://cs.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) (XDU), under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/). Before joining the XDU, I received my bachelor degree of Computer Science and Technology from Xi’an Shiyou University. In 2021, I was successfully recommended to Xidian University in advance. I am a self-motivated person and have strong passion for scientific research. Currently, my research interest lies in Self-adaptive System and Reinforcement Learning. I am always welcoming collaborating from solid partners.
 
 Research Interest
 ======
 + Self-adaptive System
 + Reinforcement Learning (RL)
 
-News
+Publications
 ======
-+ **[12/2023]**  "Self-Supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward" Accepted by ICASSP'24
++ [**Self-Supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward**](https://ieeexplore.ieee.org/document/10447216)
+  <br> **Yufeng Xie**, Yinan Wang, Han Wang, Qingshan Li
+  <br> _IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, 2024 
+  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICASSP 2024</div><img src='/images/SRL-AR.pdf' alt="sym" width="400"></div></div>
+  <br>
 
 Education
 ======
