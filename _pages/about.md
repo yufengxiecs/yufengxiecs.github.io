@@ -14,9 +14,8 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 Research Interest
 ======
-+ Adaptive System
++ Self-adaptive System
 + Reinforcement Learning (RL)
-+ Intelligent Software Engineering (ISE)
 
 News
 ======
