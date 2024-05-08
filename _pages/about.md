@@ -35,7 +35,7 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 + [**Self-Supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward**](https://ieeexplore.ieee.org/document/10447216)
   <br> **Yufeng Xie**, Yinan Wang, Han Wang, Qingshan Li
-  <br> _IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, 2024
+  <br> _International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, 2024
   <br> <a href="/files/SRL-AR.pdf" class="button">PDF</a> <a href="/files/ICASSP24_Poster.pdf" class="button">Poster</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICASSP 2024</div><img src='/images/SRL-AR.png' alt="sym" width="400"></div></div>
