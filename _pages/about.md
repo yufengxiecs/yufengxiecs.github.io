@@ -26,6 +26,13 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 ## Publications
 
++ [**Multi-Agent Communication with Multi-Modal Information Fusion**]()
+  <br> Han Wang, **Yufeng Xie**, Bingcheng He, Qingshan Li
+  <br> _Cognitive Science Society Annual Conference (**CogSci**)_, 2024
+  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">CogSci 2024</div><img src='/images/MM-MAC.png' alt="sym" width="400"></div></div>
+  <br>
+
 + [**Self-Supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward**](https://ieeexplore.ieee.org/document/10447216)
   <br> **Yufeng Xie**, Yinan Wang, Han Wang, Qingshan Li
   <br> _IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, 2024
@@ -33,6 +40,7 @@ I am currently a master student of the [School of Computer Science and Technolog
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICASSP 2024</div><img src='/images/SRL-AR.png' alt="sym" width="400"></div></div>
   <br>
+
 
 ## Education
 
