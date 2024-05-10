@@ -28,7 +28,7 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 + [**Multi-Agent Communication with Multi-Modal Information Fusion**]()
   <br> Han Wang, **Yufeng Xie**, Bingcheng He, Qingshan Li
-  <br> _Cognitive Science Society Annual Conference (**CogSci**)_, 2024
+  <br> _Annual Meeting of the Cognitive Science Society (**CogSci**)_, 2024
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">CogSci 2024</div><img src='/images/MM-MAC.png' alt="sym" width="400"></div></div>
   <br>
