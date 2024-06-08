@@ -21,21 +21,21 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 ## Research Interest
 
-+ Reinforcement Learning (RL)
-+ Multi-Agent Systems (MAS)
++ Reinforcement Learning
++ Multi-Agent Systems
 
 ## Publications
 
 + [**Multi-Agent Communication with Multi-Modal Information Fusion**]()
   <br> Han Wang, **Yufeng Xie**, Bingcheng He, Qingshan Li
-  <br> _Annual Meeting of the Cognitive Science Society (**CogSci**)_, 2024
+  <br> _Proceedings of the 46th Annual Meeting of the Cognitive Science Society (**CogSci**)_, 2024
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">CogSci 2024</div><img src='/images/MM-MAC.png' alt="sym" width="400"></div></div>
   <br>
 
 + [**Self-Supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward**](https://ieeexplore.ieee.org/document/10447216)
   <br> **Yufeng Xie**, Yinan Wang, Han Wang, Qingshan Li
-  <br> _IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, 2024
+  <br> _Proceedings of the 49th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, 2024
   <br> <a href="/files/SRL-AR.pdf" class="button">PDF</a> <a href="/files/ICASSP24_Poster.pdf" class="button">Poster</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICASSP 2024</div><img src='/images/SRL-AR.png' alt="sym" width="400"></div></div>
@@ -46,7 +46,7 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 + <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Sc., Computer Science, Xidian University, 2022.08 - Now, <br>&nbsp;Supervisor: [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/)
 
-+ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Sc., Computer Science, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;Supervisor: Prof. Guojian Cheng
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Sc., Computer Science, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;Supervisor: GPA: 3.94/5, Rank: 3/192
 
 ## Contact with me
 
