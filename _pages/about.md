@@ -46,7 +46,7 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 + <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Sc., Computer Science, Xidian University, 2022.08 - Now, <br>&nbsp;Supervisor: [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/)
 
-+ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Sc., Computer Science, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;Supervisor: GPA: 3.94/5, Rank: 3/192
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Sc., Computer Science, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;GPA: 3.94/5, Rank: 3/192
 
 ## Contact with me
 
