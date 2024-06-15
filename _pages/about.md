@@ -48,6 +48,16 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 + <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Sc., Computer Science, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;GPA: 3.94/5, Rank: 3/192
 
+
+## Honors & Awards
+
++ Outstanding Graduate of XSYU, 2022
++ National Encouragement Scholarship, Ministry of Education, China, 2020 & 2021
++ First Prize of China Robotics and Artificial Intelligence Competition, 2020
++ Second Prize of China Undergraduate Mathematical Contest in Modeling, 2020
++ Second Prize of Blue Bridge Cup Programming Contest, 2020
+
+
 ## Contact with me
 
 Welcome to contact with me via email [yufengxie.cs@gmail.com](mailto:yufengxie.cs@gmail.com), [yufeng.xie@stu.xidian.edu.cn](mailto:yufeng.xie@stu.xidian.edu.cn).
