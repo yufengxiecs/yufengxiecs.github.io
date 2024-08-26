@@ -26,6 +26,20 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 ## Publications
 
++ [**Return-Aware Offline Reinforcement Learning via Multi-modal Sequence Modeling**]()
+  <br> **Yufeng Xie**, Han Wang, Qingshan Li
+  <br> _Proceedings of the 31st International Conference on Neural Information Processing (**ICONIP**)_, 2024
+  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICONIP 2024</div><img src='/images/RATT.png' alt="sym" width="400"></div></div>
+  <br>
+
++ [**MCLF: A Max-Margin Contrastive Learning Framework for Reinforcement Learning**]()
+  <br> **Yufeng Xie**, Han Wang, Qingshan Li
+  <br> _Proceedings of the 31st International Conference on Neural Information Processing (**ICONIP**)_, 2024
+  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICONIP 2024</div><img src='/images/MCLF.png' alt="sym" width="400"></div></div>
+  <br>
+
 + [**Multi-Agent Communication with Multi-Modal Information Fusion**](https://escholarship.org/uc/item/24w3654z)
   <br> Han Wang, **Yufeng Xie**, Bingcheng He, Qingshan Li
   <br> _Proceedings of the 46th Annual Meeting of the Cognitive Science Society (**CogSci**)_, 2024
