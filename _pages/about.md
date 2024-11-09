@@ -65,10 +65,11 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 ## Honors & Awards
 
++ National Scholarship, Ministry of Education of China, 2024
 + Outstanding Graduate Student, Xidian University, 2023
-+ Special Scholarship for Recommended Students, Xidian University, 2022
++ Special Scholarship for Graduate Students, Xidian University, 2022
 + Outstanding Graduate, Xi’an Shiyou University, 2022
-+ National Encouragement Scholarship, Ministry of Education of China (Top 3%), 2021 & 2020
++ National Encouragement Scholarship, Ministry of Education of China, 2021 & 2020
 + National First Prize, China Robotics and Artificial Intelligence Competition, 2020
 + Provincial Second Prize, China Undergraduate Mathematical Contest in Modeling, 2020
 + Provincial Second Prize, Blue Bridge Cup Programming Contest, 2020
