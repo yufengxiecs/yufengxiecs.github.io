@@ -58,21 +58,19 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 ## Education
 
-+ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Sc., Computer Science, Xidian University, 2022.08 - Now, <br>&nbsp;Supervisor: [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/)
++ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;PhD in Control Science and Engineering, National University of Defense Technology, 2025.08 - , <br>&nbsp;Supervisor: [Prof. Yaonan Wang]() and [Assoc. Prof. Junkai Ren]()
 
-+ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Sc., Computer Science, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;GPA: 3.94/5, Ranked in the top 1% of graduating class
++ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;MEng in Computer Science and Technology, Xidian University, 2022.08 - 2025.06, <br>&nbsp;Supervisor: [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/)
+
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;BEng in Computer Science and Technology, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;Grades: 88.96/100  (Ranked in the top 1% of graduating class)
 
 
 ## Honors & Awards
 
++ Excellent Master Dissertation Nomination Award, Xidian University, 2025
 + National Scholarship, Ministry of Education of China, 2024
-+ Outstanding Graduate Student, Xidian University, 2023
-+ Special Scholarship for Graduate Students, Xidian University, 2022
-+ Outstanding Graduate, Xi’an Shiyou University, 2022
 + National Encouragement Scholarship, Ministry of Education of China, 2021 & 2020
 + National First Prize, China Robotics and Artificial Intelligence Competition, 2020
-+ Provincial Second Prize, China Undergraduate Mathematical Contest in Modeling, 2020
-+ Provincial Second Prize, Blue Bridge Cup Programming Contest, 2020
 
 
 ## Contact with me
