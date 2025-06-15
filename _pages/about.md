@@ -58,13 +58,11 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 ## Education
 
-<small>
-+ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;PhD in Control Science and Engineering, National University of Defense Technology, 2025.08 - , <br>&nbsp;Supervisor: [Prof. Yaonan Wang]() and [Assoc. Prof. Junkai Ren]()
++ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;PhD in Control Science and Engineering, 2025.08 - , <br>&nbsp;National University of Defense Technology
 
-+ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;MEng in Computer Science and Technology, Xidian University, 2022.08 - 2025.06, <br>&nbsp;Supervisor: [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/)
++ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;MEng in Computer Science and Technology, 2022.08 - 2025.06, <br>&nbsp;Xidian University
 
-+ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;BEng in Computer Science and Technology, Xi'an Shiyou University, 2018.09 - 2022.06, <br>&nbsp;Grades: 88.96/100  (Ranked in the top 1% of graduating class)
-</small>
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;BEng in Computer Science and Technology, 2018.09 - 2022.06, <br>&nbsp;<span style="color: #999999;">Xi'an Shiyou University</span>
 
 
 ## Honors & Awards
