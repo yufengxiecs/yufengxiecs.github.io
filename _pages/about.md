@@ -17,7 +17,7 @@ redirect_from:
 
 About me
 ======
-I am currently a master student of the [School of Computer Science and Technology](https://cs.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) (XDU), under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/). Before joining the XDU, I received my bachelor degree of Computer Science and Technology from Xi’an Shiyou University. In 2021, I was successfully recommended to Xidian University in advance. I am a self-motivated person and have strong passion for scientific research. Currently, my research interest lies in Reinforcement Learning and Multi-Agent Systems. I am always welcoming collaborating from solid partners.
+I am currently a PhD student of the College of Intelligent Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/). Before joining the XDU, I received my bachelor degree of Computer Science and Technology from Xi’an Shiyou University. In 2021, I was successfully recommended to Xidian University in advance. I am a self-motivated person and have strong passion for scientific research. Currently, my research interest lies in Reinforcement Learning and Multi-Agent Systems. I am always welcoming collaborating from solid partners.
 
 ## Research Interest
 
