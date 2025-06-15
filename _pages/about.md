@@ -58,11 +58,11 @@ I am currently a master student of the [School of Computer Science and Technolog
 
 ## Education
 
-+ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;PhD in Control Science and Engineering, 2025.08 - , <br>&nbsp;<span style="color:rgb(121, 115, 115);">National University of Defense Technology</span>
++ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;PhD in Control Science and Engineering, 2025.08 -  <br>&nbsp;<span style="color:rgb(98, 93, 93);">National University of Defense Technology</span>
 
-+ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;MEng in Computer Science and Technology, 2022.08 - 2025.06, <br>&nbsp;<span style="color:rgb(121, 115, 115);">Xidian University</span>
++ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;MEng in Computer Science and Technology, 2022.08 - 2025.06 <br>&nbsp;<span style="color:rgb(98, 93, 93);">Xidian University</span>
 
-+ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;BEng in Computer Science and Technology, 2018.09 - 2022.06, <br>&nbsp;<span style="color:rgb(121, 115, 115);">Xi'an Shiyou University</span>
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;BEng in Computer Science and Technology, 2018.09 - 2022.06 <br>&nbsp;<span style="color:rgb(98, 93, 93);">Xi'an Shiyou University</span>
 
 
 ## Honors & Awards
