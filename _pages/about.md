@@ -15,14 +15,19 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-About me
+Biography
 ======
-I am currently a PhD student of the College of Intelligent Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Dr. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/). Before joining the XDU, I received my bachelor degree of Computer Science and Technology from Xi’an Shiyou University. In 2021, I was successfully recommended to Xidian University in advance. I am a self-motivated person and have strong passion for scientific research. Currently, my research interest lies in Reinforcement Learning and Multi-Agent Systems. I am always welcoming collaborating from solid partners.
+I am currently a Ph.D. student of the College of Intelligent Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), where I am fortunate to be supervised by [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm) (Academician of Chinese Academy of Engineering) and [Assoc. Prof. Junkai Ren]().
+
+I received my B.Eng. degree from Xi’an Shiyou University in June 2022. In the same year, I was admitted to pursue a M.Eng. degree in Xidian University without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/).
+
 
 ## Research Interest
 
-+ Reinforcement Learning
-+ Multi-Agent Systems
+My research interest includes Reinforcement Learning and its applications. Recently, I am interested in
++ Embodied AI
++ World Model Learning
+
 
 ## Publications
 
@@ -58,11 +63,11 @@ I am currently a PhD student of the College of Intelligent Science and Technolog
 
 ## Education
 
-+ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;PhD in Control Science and Engineering, 2025.08 -  <br>&nbsp;<span style="color:rgb(98, 93, 93);">National University of Defense Technology</span>
++ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;Ph.D. in Control Science and Engineering, 2025.08 -  <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">National University of Defense Technology</span>
 
-+ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;MEng in Computer Science and Technology, 2022.08 - 2025.06 <br>&nbsp;<span style="color:rgb(98, 93, 93);">Xidian University</span>
++ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Eng. in Computer Science and Technology, 2022.08 - 2025.06 <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xidian University</span>
 
-+ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;BEng in Computer Science and Technology, 2018.09 - 2022.06 <br>&nbsp;<span style="color:rgb(98, 93, 93);">Xi'an Shiyou University</span>
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Eng. in Computer Science and Technology, 2018.09 - 2022.06 <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xi'an Shiyou University</span>
 
 
 ## Honors & Awards
