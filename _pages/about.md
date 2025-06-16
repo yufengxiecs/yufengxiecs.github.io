@@ -19,7 +19,7 @@ Biography
 ======
 I am currently a Ph.D. student of the College of Intelligent Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), where I am fortunate to be supervised by [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm) (Academician of Chinese Academy of Engineering) and [Assoc. Prof. Junkai Ren]().
 
-I received my B.Eng. degree from Xi’an Shiyou University in June 2022. In the same year, I was admitted to pursue a M.Eng. degree in Xidian University without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/).
+I received my B.Eng. degree from [Xi’an Shiyou University](https://english.xsyu.edu.cn/) in June 2022. In the same year, I was admitted to pursue a M.Eng. degree in [Xidian University](https://en.xidian.edu.cn/) without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/).
 
 
 ## Research Interest
