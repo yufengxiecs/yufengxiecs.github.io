@@ -31,14 +31,14 @@ My research interest includes Reinforcement Learning and its applications. Recen
 
 ## Publications
 
-+ [**Return-Aware Offline Reinforcement Learning via Multi-Modal Sequence Modeling**]()
++ [**Return-Aware Offline Reinforcement Learning via Multi-Modal Sequence Modeling**](https://link.springer.com/chapter/10.1007/978-981-96-6951-6_17)
   <br> **Yufeng Xie**, Han Wang, Qingshan Li
   <br> _Proceedings of the 31st International Conference on Neural Information Processing (**ICONIP**)_, Auckland, New Zealand, 2024, accepted
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICONIP 2024</div><img src='/images/RATT.png' alt="sym" width="400"></div></div>
   <br>
 
-+ [**MCLF: A Max-Margin Contrastive Learning Framework for Reinforcement Learning**]()
++ [**MCLF: A Max-Margin Contrastive Learning Framework for Reinforcement Learning**](https://link.springer.com/chapter/10.1007/978-981-96-6954-7_8)
   <br> **Yufeng Xie**, Han Wang, Qingshan Li
   <br> _Proceedings of the 31st International Conference on Neural Information Processing (**ICONIP**)_, Auckland, New Zealand, 2024, accepted
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
