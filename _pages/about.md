@@ -80,4 +80,4 @@ My research interest includes Reinforcement Learning and its applications. Recen
 
 ## Contact with me
 
-Welcome to contact with me via email [yufengxie.cs@gmail.com](mailto:yufengxie.cs@gmail.com), [yufeng.xie@stu.xidian.edu.cn](mailto:yufeng.xie@stu.xidian.edu.cn).
+Welcome to contact with me via email [yufengxie.cs@gmail.com](mailto:yufengxie.cs@gmail.com), [yufeng.xie@nudt.edu.cn](mailto:yufeng.xie@nudt.edu.cn).
