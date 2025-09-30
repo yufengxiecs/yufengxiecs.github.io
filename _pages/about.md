@@ -24,9 +24,9 @@ I received my B.Eng. degree from [Xi’an Shiyou University](https://english.xsy
 
 ## Research Interest
 
-My research interest includes Reinforcement Learning and its applications. Recently, I am interested in
-+ Embodied AI
-+ World Model Learning
+My research interests include Reinforcement Learning and its applications. Recently, I am interested in
++ 🤖 Robot Learning
++ 🌍 World Model Learning
 
 
 ## Publications
