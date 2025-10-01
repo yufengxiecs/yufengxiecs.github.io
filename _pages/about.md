@@ -17,14 +17,14 @@ redirect_from:
 
 Biography
 ======
-I am currently a Ph.D. student of the College of Intelligence Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), where I am fortunate to be supervised by [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm) (Academician of Chinese Academy of Engineering) and [Assoc. Prof. Junkai Ren]().
+I am currently a Ph.D student of the College of Intelligence Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), where I am fortunate to be supervised by [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm) (Academician of Chinese Academy of Engineering) and [Assoc. Prof. Junkai Ren]().
 
-I received my B.Eng. degree from [Xi’an Shiyou University](https://english.xsyu.edu.cn/) in June 2022. In the same year, I was admitted to pursue a M.Eng. degree in [Xidian University](https://en.xidian.edu.cn/) without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/).
+I received my B.Eng degree from [Xi’an Shiyou University](https://english.xsyu.edu.cn/) in June 2022. In the same year, I was admitted to pursue a M.Eng degree in [Xidian University](https://en.xidian.edu.cn/) without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/).
 
 
 ## Research Interest
 
-My research interests include Reinforcement Learning and its applications. Recently, I am interested in
+My research interests include Reinforcement Learning and its applications, especially
 + 🤖 Robot Learning
 + 🌍 World Model Learning
 
@@ -63,19 +63,27 @@ My research interests include Reinforcement Learning and its applications. Recen
 
 ## Education
 
-+ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;Ph.D. in Control Science and Engineering, 2025.08 -  <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">National University of Defense Technology</span>
++ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;Ph.D, College of Intelligence Science and Technology, 2025.08 - present <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">National University of Defense Technology</span>
 
-+ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Eng. in Computer Science and Technology, 2022.08 - 2025.06 <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xidian University</span>
++ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Eng, School of Computer Science and Technology, 2022.08 - 2025.06 <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xidian University</span>
 
-+ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Eng. in Computer Science and Technology, 2018.09 - 2022.06 <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xi'an Shiyou University</span>
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Eng, School of Computer Science, 2018.09 - 2022.06 <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xi'an Shiyou University</span>
 
 
 ## Honors & Awards
 
 + Excellent Master Dissertation Nomination Award, Xidian University, 2025
 + National Scholarship, Ministry of Education of China, 2024
-+ National Encouragement Scholarship, Ministry of Education of China, 2021 & 2020
-+ National First Prize, China Robotics and Artificial Intelligence Competition, 2020
+
+## Academic Service
+
+# Conference Reviewers
++ IEEE International Conference on Robotics & Automation (ICRA)
++ Annual Meeting of the Cognitive Science Society (CogSci)
++ Asian Conference on Artificial Intelligence Technology (ACAIT)
+
+# Journal Reviewers
++ IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 
 
 ## Contact with me
