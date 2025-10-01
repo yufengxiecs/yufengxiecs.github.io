@@ -77,12 +77,12 @@ My research interests include Reinforcement Learning and its applications, espec
 
 ## Academic Service
 
-# Conference Reviewers
+Conference Reviewers
 + IEEE International Conference on Robotics & Automation (ICRA)
 + Annual Meeting of the Cognitive Science Society (CogSci)
 + Asian Conference on Artificial Intelligence Technology (ACAIT)
 
-# Journal Reviewers
+Journal Reviewers
 + IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 
 
