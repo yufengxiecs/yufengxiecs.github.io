@@ -44,6 +44,7 @@ My research interests include Reinforcement Learning and its applications, espec
     </div>
   </div>
 
+
 <div class="pubs-item">
     <div class="p">
     <a href="https://link.springer.com/chapter/10.1007/978-981-96-6954-7_8"> <b>MCLF: A Max-Margin Contrastive Learning Framework for Reinforcement Learning </b></a>
@@ -56,6 +57,7 @@ My research interests include Reinforcement Learning and its applications, espec
     </div>
   </div>
 
+
 <div class="pubs-item">
     <div class="p">
     <a href="https://escholarship.org/uc/item/24w3654z"> <b>Multi-Agent Communication with Multi-Modal Information Fusion </b></a>
@@ -67,6 +69,7 @@ My research interests include Reinforcement Learning and its applications, espec
   <br>
     </div>
   </div>
+
 
   <div class="pubs-item">
     <div class="p">
