@@ -23,8 +23,8 @@ Before joining the NUDT, I received my B.Eng degree from [Xi’an Shiyou Univers
 
 ## Research Interest
 My research interests include Reinforcement Learning and its applications, especially
-- 🤖 Robot Learning
-- 🌍 World Model Learning
++ 🤖 Robot Learning
++ 🌍 World Model Learning
 
 
 ## Publications 
@@ -84,25 +84,25 @@ My research interests include Reinforcement Learning and its applications, espec
 
 
 ## Education
-- <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;Ph.D, College of Intelligence Science and Technology | <small>2025.09 - present</small> <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">National University of Defense Technology</span>
++ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;Ph.D, College of Intelligence Science and Technology | <small>2025.09 - present</small> <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">National University of Defense Technology</span>
 
-- <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Eng, School of Computer Science and Technology ｜ <small>2022.08 - 2025.06</small> <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xidian University</span>
++ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Eng, School of Computer Science and Technology ｜ <small>2022.08 - 2025.06</small> <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xidian University</span>
 
-- <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Eng, School of Computer Science ｜ <small>2018.09 - 2022.06</small> <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xi'an Shiyou University</span>
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Eng, School of Computer Science ｜ <small>2018.09 - 2022.06</small> <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xi'an Shiyou University</span>
 
 
 ## Honors & Awards
-- Excellent Master Dissertation Nomination Award, Xidian University, 2025
-- National Scholarship, Ministry of Education of China, 2024
++ Excellent Master Dissertation Nomination Award, Xidian University, 2025
++ National Scholarship, Ministry of Education of China, 2024
 
 ## Academic Service
-- **Conference Reviewer**
-  - IEEE International Conference on Robotics & Automation (ICRA)
-  - Annual Meeting of the Cognitive Science Society (CogSci)
-  - Asian Conference on Artificial Intelligence Technology (ACAIT)
++ **Conference Reviewer**
+  <br>IEEE International Conference on Robotics & Automation (ICRA)
+  <br>Annual Meeting of the Cognitive Science Society (CogSci)
+  <br>Asian Conference on Artificial Intelligence Technology (ACAIT)
 
-- **Journal Reviewer**
-  - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
++ **Journal Reviewer**
+  <br>IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 
 
 ## Contact with me
