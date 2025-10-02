@@ -86,14 +86,14 @@ My research interests include Reinforcement Learning and its applications, espec
 
 
 ## Education
-+ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;Ph.D, College of Intelligence Science and Technology | <small>2025.09 - present</small>
-<br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">National University of Defense Technology</span>
++ <img align="left" decoding="async" src="/images/logo_nudt.png" width="7%"> &nbsp;Ph.D in Control Science and Engineering | <small>2025.09 - present</small>
+<br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">College of Intelligence Science and Technology, National University of Defense Technology</span>
 
-+ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Eng, School of Computer Science and Technology ｜ <small>2022.08 - 2025.06</small>
-<br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xidian University</span>
++ <img align="left" decoding="async" src="/images/logo_xdu.png" width="7%"> &nbsp;M.Eng in Computer Science and Technology ｜ <small>2022.08 - 2025.06</small>
+<br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">School of Computer Science and Technology, Xidian University</span>
 
-+ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Eng, School of Computer Science ｜ <small>2018.09 - 2022.06</small>
-<br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">Xi'an Shiyou University</span>
++ <img align="left" decoding="async" src="/images/logo_xsyu.png" width="7%"> &nbsp;B.Eng in Computer Science and Technology ｜ <small>2018.09 - 2022.06</small>
+<br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">School of Computer Science, Xi'an Shiyou University</span>
 
 
 ## Honors & Awards
