@@ -27,35 +27,59 @@ My research interests include Reinforcement Learning and its applications, espec
 - 🌍 World Model Learning
 
 
-## Publications <a href='https://scholar.google.com/citations?user=oA0QKpAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-- [**Return-Aware Offline Reinforcement Learning via Multi-Modal Sequence Modeling**](https://link.springer.com/chapter/10.1007/978-981-96-6951-6_17)
-  <br> **Yufeng Xie**, Han Wang, Qingshan Li
-  <br> _Proceedings of the 31st International Conference on Neural Information Processing (**ICONIP**)_, Auckland, New Zealand, 2024, pages: 241-255
+## Publications 
+
+<div class="pubs-container">
+
+<div class="pubs-item">
+    <div class="p">
+    <a href="https://link.springer.com/chapter/10.1007/978-981-96-6951-6_17"> <b>Return-Aware Offline Reinforcement Learning via Multi-Modal Sequence Modeling </b></a>
+  <br><small> <b>Yufeng Xie</b>, Han Wang, Qingshan Li</small>
+  <br> <small>The 31st International Conference on Neural Information Processing (<b><i>ICONIP</i> 2024</b>)</small>  
+   
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICONIP 2024</div><img src='/images/RATT.png' alt="sym" width="400"></div></div>
   <br>
+    </div>
+  </div>
 
-- [**MCLF: A Max-Margin Contrastive Learning Framework for Reinforcement Learning**](https://link.springer.com/chapter/10.1007/978-981-96-6954-7_8)
-  <br> **Yufeng Xie**, Han Wang, Qingshan Li
-  <br> _Proceedings of the 31st International Conference on Neural Information Processing (**ICONIP**)_, Auckland, New Zealand, 2024, pages: 107-121
+<div class="pubs-item">
+    <div class="p">
+    <a href="https://link.springer.com/chapter/10.1007/978-981-96-6954-7_8"> <b>MCLF: A Max-Margin Contrastive Learning Framework for Reinforcement Learning </b></a>
+  <br><small> <b>Yufeng Xie</b>, Han Wang, Qingshan Li</small>
+  <br> <small>The 31st International Conference on Neural Information Processing (<b><i>ICONIP</i> 2024</b>)</small>  
+   
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICONIP 2024</div><img src='/images/MCLF.png' alt="sym" width="400"></div></div>
   <br>
+    </div>
+  </div>
 
-- [**Multi-Agent Communication with Multi-Modal Information Fusion**](https://escholarship.org/uc/item/24w3654z)
-  <br> Han Wang, **Yufeng Xie**, Bingcheng He, Qingshan Li
-  <br> _Proceedings of the 46th Annual Meeting of the Cognitive Science Society (**CogSci**)_, Rotterdam, Netherlands, 2024, pages: 5912-5918
+<div class="pubs-item">
+    <div class="p">
+    <a href="https://escholarship.org/uc/item/24w3654z"> <b>Multi-Agent Communication with Multi-Modal Information Fusion </b></a>
+  <br><small> Han Wang, <b>Yufeng Xie</b>, Bingcheng He, Qingshan Li</small>
+  <br> <small>The 46th Annual Meeting of the Cognitive Science Society (<b><i>CogSci</i> 2024</b>)</small>  
+   
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">CogSci 2024</div><img src='/images/MM-MAC.png' alt="sym" width="400"></div></div>
   <br>
+    </div>
+  </div>
 
-- [**Self-Supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward**](https://ieeexplore.ieee.org/document/10447216)
-  <br> **Yufeng Xie**, Yinan Wang, Han Wang, Qingshan Li
-  <br> _Proceedings of the 49th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, Seoul, Korea, 2024, pages: 7725-7729
-  <!-- <br> <a href="/files/SRL-AR.pdf" class="button">PDF</a> <a href="/files/ICASSP24_Poster.pdf" class="button">Poster</a> -->
+  <div class="pubs-item">
+    <div class="p">
+    <a href="https://ieeexplore.ieee.org/document/10447216"> <b>Self-Supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward </b></a>
+  <br><small> <b>Yufeng Xie</b>, Yinan Wang, Han Wang, Qingshan Li</small>
+  <br> <small>The 49th IEEE International Conference on Acoustics, Speech and Signal Processing (<b><i>ICASSP</i> 2024</b>)</small>  
+   
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICASSP 2024</div><img src='/images/SRL-AR.png' alt="sym" width="400"></div></div>
   <br>
+    </div>
+  </div>
+
+
 
 
 ## Education
