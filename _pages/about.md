@@ -45,30 +45,6 @@ My research interests include Reinforcement Learning and its applications, espec
 
 <div class="pubs-item">
     <div class="p">
-    <a href="https://link.springer.com/chapter/10.1007/978-981-96-6951-6_17"> <b>Return-Aware Offline Reinforcement Learning via Multi-Modal Sequence Modeling </b></a>
-  <br><small> <b>Yufeng Xie</b>, Han Wang, Qingshan Li</small>
-  <br> <small>The 31st International Conference on Neural Information Processing (<b><i>ICONIP</i> 2024</b>)</small>  
-   
-  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICONIP 2024</div><img src='/images/RATT.png' alt="sym" width="400"></div></div>
-  <br>
-    </div>
-  </div>
-
-<div class="pubs-item">
-    <div class="p">
-    <a href="https://link.springer.com/chapter/10.1007/978-981-96-6951-6_17"> <b>Return-Aware Offline Reinforcement Learning via Multi-Modal Sequence Modeling </b></a>
-  <br><small> <b>Yufeng Xie</b>, Han Wang, Qingshan Li</small>
-  <br> <small>The 31st International Conference on Neural Information Processing (<b><i>ICONIP</i> 2024</b>)</small>  
-   
-  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICONIP 2024</div><img src='/images/RATT.png' alt="sym" width="400"></div></div>
-  <br>
-    </div>
-  </div>
-
-<div class="pubs-item">
-    <div class="p">
     <a href="https://link.springer.com/chapter/10.1007/978-981-96-6954-7_8"> <b>MCLF: A Max-Margin Contrastive Learning Framework for Reinforcement Learning </b></a>
   <br><small> <b>Yufeng Xie</b>, Han Wang, Qingshan Li</small>
   <br> <small>The 31st International Conference on Neural Information Processing (<b><i>ICONIP</i> 2024</b>)</small>  
