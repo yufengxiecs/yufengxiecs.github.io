@@ -17,9 +17,8 @@ redirect_from:
 
 Biography
 ======
-I am currently a Ph.D student of the College of Intelligence Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), where I am fortunate to be supervised by [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm) (Academician of Chinese Academy of Engineering) and [Assoc. Prof. Junkai Ren]().
-
-I received my B.Eng degree from [Xi’an Shiyou University](https://english.xsyu.edu.cn/) in June 2022. In the same year, I was admitted to pursue a M.Eng degree in [Xidian University](https://en.xidian.edu.cn/) without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/).
+I am currently a Ph.D student of the College of Intelligence Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT) <img src='/images/logo_nudt.png' style='width: 1.2em;'>, where I am fortunate to be supervised by [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm) (Academician of Chinese Academy of Engineering) and [Assoc. Prof. Junkai Ren]().
+Before joining the NUDT, I received my B.Eng degree from [Xi’an Shiyou University](https://english.xsyu.edu.cn/) <img src='/images/logo_xsyu.png' style='width: 1.2em;'> in June 2022. In the same year, I was admitted to pursue a M.Eng degree in [Xidian University](https://en.xidian.edu.cn/) <img src='/images/logo_xdu.png' style='width: 1.2em;'> without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/).
 
 
 ## Research Interest
@@ -28,7 +27,7 @@ My research interests include Reinforcement Learning and its applications, espec
 - 🌍 World Model Learning
 
 
-## Publications
+## Publications <a href='https://scholar.google.com/citations?user=oA0QKpAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - [**Return-Aware Offline Reinforcement Learning via Multi-Modal Sequence Modeling**](https://link.springer.com/chapter/10.1007/978-981-96-6951-6_17)
   <br> **Yufeng Xie**, Han Wang, Qingshan Li
   <br> _Proceedings of the 31st International Conference on Neural Information Processing (**ICONIP**)_, Auckland, New Zealand, 2024, pages: 241-255
