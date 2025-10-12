@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yufeng Xie"
 title_separator          : "-"
 name                     : &name "Yufeng Xie"
-description              : &description "Ph.D Student @ NUDT"
+description              : &description "Research Assistant @ NUDT"
 url                      : https://yufengxiecs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yufengxiecs/yufengxiecs.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yufeng Xie (谢雨峰)"
   avatar           : "person.png"
-  bio              : "Ph.D Student @ NUDT"
+  bio              : "Research Assistant @ NUDT"
   location         : "Changsha, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
