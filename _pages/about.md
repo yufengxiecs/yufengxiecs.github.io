@@ -26,7 +26,7 @@ I received my B.Eng degree from [Xi’an Shiyou University](https://english.xsyu
 
 ## Research Interest
 My research interests include Reinforcement Learning and its applications, especially
-+ 🤖 Robot Learning
++ 📊 Offline Meta-Learning
 + 🌍 World Model Learning
 
 
