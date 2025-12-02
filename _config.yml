@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yufeng Xie"
 title_separator          : "-"
 name                     : &name "Yufeng Xie"
-description              : &description "Research Assistant @ NUDT"
+# description              : &description "Research Assistant @ NUDT"
 url                      : https://yufengxiecs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yufengxiecs/yufengxiecs.github.io"
@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Yufeng Xie (谢雨峰)"
   avatar           : "person.png"
-  bio              : "Research Assistant @ NUDT"
-  location         : "Changsha, China"
+  bio              : # "Research Assistant @ NUDT"
+  location         : # "Changsha, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  "https://scholar.google.com.hk/citations?hl=zh-CN&user=oA0QKpAAAAAJ"
   email            : “yufengxie.cs@gmail.com”
   researchgate     :  # "https://www.researchgate.net/profile/Yufeng-Xie-8"
   uri              : 
-  cv               : "https://drive.google.com/file/d/1evkBNaDr6Z-cX2xBGhV-oSIGFsSGBZob/view?usp=drive_link"
+  cv               : # "https://drive.google.com/file/d/1evkBNaDr6Z-cX2xBGhV-oSIGFsSGBZob/view?usp=drive_link"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0009-0005-4640-0119"
+  orcid            : # "http://orcid.org/0009-0005-4640-0119"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

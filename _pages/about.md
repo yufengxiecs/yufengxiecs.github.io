@@ -20,8 +20,9 @@ Biography
 ======
 <!-- I am currently a Ph.D student of the College of Intelligence Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT) <img src='/images/logo_nudt.png' style='width: 1.2em;'>, where I am fortunate to be supervised by [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm) (Academician of Chinese Academy of Engineering) and [Assoc. Prof. Junkai Ren]().
 Before joining the NUDT, I received my B.Eng degree from [Xi’an Shiyou University](https://english.xsyu.edu.cn/) <img src='/images/logo_xsyu.png' style='width: 1.2em;'> in June 2022. In the same year, I was admitted to pursue a M.Eng degree in [Xidian University](https://en.xidian.edu.cn/) <img src='/images/logo_xdu.png' style='width: 1.2em;'> without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/). -->
-I am currently a Research Assistant of the College of Intelligence Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT) <img src='/images/logo_nudt.png' style='width: 1.2em;'>, where I am fortunate to be supervised by [Prof. Yaonan Wang](https://ieeexplore.ieee.org/author/37281429000) (Academician of Chinese Academy of Engineering).
-Before joining the NUDT, I received my B.Eng degree from [Xi’an Shiyou University](https://english.xsyu.edu.cn/) <img src='/images/logo_xsyu.png' style='width: 1.2em;'> in June 2022. In the same year, I was admitted to pursue a M.Eng degree in [Xidian University](https://en.xidian.edu.cn/) <img src='/images/logo_xdu.png' style='width: 1.2em;'> without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/).
+<!-- I am currently a Research Assistant of the College of Intelligence Science and Technology, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT) <img src='/images/logo_nudt.png' style='width: 1.2em;'>, where I am fortunate to be supervised by [Prof. Yaonan Wang](https://ieeexplore.ieee.org/author/37281429000) (Academician of Chinese Academy of Engineering).
+Before joining the NUDT, I received my B.Eng degree from [Xi’an Shiyou University](https://english.xsyu.edu.cn/) <img src='/images/logo_xsyu.png' style='width: 1.2em;'> in June 2022. In the same year, I was admitted to pursue a M.Eng degree in [Xidian University](https://en.xidian.edu.cn/) <img src='/images/logo_xdu.png' style='width: 1.2em;'> without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/). -->
+I received my B.Eng degree from [Xi’an Shiyou University](https://english.xsyu.edu.cn/) <img src='/images/logo_xsyu.png' style='width: 1.2em;'> in June 2022. In the same year, I was admitted to pursue a M.Eng degree in [Xidian University](https://en.xidian.edu.cn/) <img src='/images/logo_xdu.png' style='width: 1.2em;'> without entrance examination, which I completed in June 2025, under the supervision of [Prof. Qingshan Li](https://web.xidian.edu.cn/qshli/) and [Assoc. Prof. Han Wang](https://faculty.xidian.edu.cn/WANGHAN/).
 
 ## Research Interest
 My research interests include Reinforcement Learning and its applications, especially
@@ -102,8 +103,8 @@ My research interests include Reinforcement Learning and its applications, espec
 ## Education & Research Experience
 <!-- + <img align="left" decoding="async" src="/images/logo_nudt.png" width="6%"> &nbsp;Ph.D in Control Science and Engineering | <small>2025.09 - present</small>
 <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">College of Intelligence Science and Technology, National University of Defense Technology</span> -->
-+ <img align="left" decoding="async" src="/images/logo_nudt.png" width="6%"> &nbsp;Research Assistant | <small>2025.06 - present</small>
-<br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">College of Intelligence Science and Technology, National University of Defense Technology</span>
+<!-- + <img align="left" decoding="async" src="/images/logo_nudt.png" width="6%"> &nbsp;Research Assistant | <small>2025.06 - present</small>
+<br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">College of Intelligence Science and Technology, National University of Defense Technology</span> -->
 
 + <img align="left" decoding="async" src="/images/logo_xdu.png" width="6%"> &nbsp;M.Eng in Computer Science and Technology ｜ <small>2022.08 - 2025.06</small>
 <br>&nbsp;<span style="color:rgb(98, 93, 93); font-size: 0.9em;">School of Computer Science and Technology, Xidian University</span>
@@ -127,4 +128,4 @@ My research interests include Reinforcement Learning and its applications, espec
 
 
 ## Contact with me
-Welcome to contact with me via email [yufengxie.cs@gmail.com](mailto:yufengxie.cs@gmail.com), [yufeng.xie@nudt.edu.cn](mailto:yufeng.xie@nudt.edu.cn).
+Welcome to contact with me via email [yufengxie.cs@gmail.com](mailto:yufengxie.cs@gmail.com).
