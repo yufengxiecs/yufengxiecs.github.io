@@ -37,11 +37,11 @@ My research interests include Reinforcement Learning and its applications, espec
 <div class="pubs-item">
     <div class="p">
     <a href=""> <b>Efficient Offline Meta-Reinforcement Learning with Context-Aware World Models</b></a>
-  <br><small> <b>Yufeng Xie</b>, Junkai Ren, Han Wang, Yuke Qu, Jiawei Luo, Huimin Lu, Yaonan Wang, Xin Xu</small>
-  <br> <small>The 2026 IEEE International Conference on Robotics and Automation (<b><i>ICRA</i> 2026</b>) - under review</small>  
+  <br><small> <b>Yufeng Xie</b>, Junkai Ren, Han Wang</small>
+  <br> <small> - under review - </small>  
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ICRA 2026</div><img src='/images/CAMEL.png' alt="sym" width="400"></div></div>
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">Under Review</div><img src='/images/CAMEL.png' alt="sym" width="400"></div></div>
   <br>
     </div>
   </div>
