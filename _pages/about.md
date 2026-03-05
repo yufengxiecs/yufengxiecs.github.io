@@ -37,7 +37,7 @@ My research interests include Reinforcement Learning and its applications, espec
 <div class="pubs-item">
     <div class="p">
     <a href=""> <b>Efficient Offline Meta-Reinforcement Learning with Context-Aware World Models</b></a>
-  <br><small> <b>Yufeng Xie</b>, Junkai Ren, Han Wang</small>
+  <!-- <br><small> <b>Yufeng Xie</b>, Junkai Ren, Han Wang</small> -->
   <br> <small> - under review - </small>  
    
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
